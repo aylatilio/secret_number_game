@@ -1,0 +1,2 @@
+Este projeto é apenas um jogo simples com interface web onde você deve inserir uma entrada numérica entre 1 e 10 para adivinhar o número aleatório sorteado, te retornando quantas tentativas você levou para adivinhar a resposta. 
+O projeto foi construído com JavaScript, HTML e CSS, utilizando o VS Code e o Live Server para desenvolvimento. As imagens foram tratadas no Adobe Photoshop e a síntese de voz foi implementada com a biblioteca ResponsiveVoice.
